@@ -1,2 +1,0 @@
-# Vue_text
-vue
